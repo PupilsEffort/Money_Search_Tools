@@ -1,0 +1,13 @@
+{
+    "domain": "sflep.com",
+    "name": "Search",
+    "source": "YahooSearch",
+    "elapsed": 63.0,
+    "count": 3,
+    "subdomains": [
+        "audio.sflep.com",
+        "kyxm.sflep.com",
+        "sflep.com"
+    ],
+    "records": {}
+}

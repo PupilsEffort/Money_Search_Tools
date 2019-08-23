@@ -1,0 +1,18 @@
+{
+    "domain": "sflep.com",
+    "name": "Certificate",
+    "source": "CrtshQuery",
+    "elapsed": 3.8,
+    "count": 8,
+    "subdomains": [
+        "qr.sflep.com",
+        "autodiscover.sflep.com",
+        "easylanguage.sflep.com",
+        "mail.sflep.com",
+        "sso.sflep.com",
+        "courseresgdpa.sflep.com",
+        "www.courserescqut.sflep.com",
+        "sflep.com"
+    ],
+    "records": {}
+}

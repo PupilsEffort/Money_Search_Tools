@@ -1,0 +1,13 @@
+{
+    "domain": "sflep.com",
+    "name": "Dataset",
+    "source": "ChinazQuery",
+    "elapsed": 3.6,
+    "count": 3,
+    "subdomains": [
+        "www.sflep.com",
+        "sso.sflep.com",
+        "sflep.com"
+    ],
+    "records": {}
+}

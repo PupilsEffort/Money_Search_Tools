@@ -1,0 +1,21 @@
+{
+    "domain": "sflep.com",
+    "name": "Search",
+    "source": "BingSearch",
+    "elapsed": 19.3,
+    "count": 11,
+    "subdomains": [
+        "welearn.sflep.com",
+        "pgg.sflep.com",
+        "audio.sflep.com",
+        "kyxm.sflep.com",
+        "sso.sflep.com",
+        "flt.sflep.com",
+        "www.sflep.com",
+        "kids.sflep.com",
+        "nfltc.sflep.com",
+        "we.sflep.com",
+        "sflep.com"
+    ],
+    "records": {}
+}

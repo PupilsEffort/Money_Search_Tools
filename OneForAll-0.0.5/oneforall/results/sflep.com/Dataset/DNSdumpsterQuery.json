@@ -1,0 +1,11 @@
+{
+    "domain": "sflep.com",
+    "name": "Dataset",
+    "source": "DNSdumpsterQuery",
+    "elapsed": 8.6,
+    "count": 1,
+    "subdomains": [
+        "sflep.com"
+    ],
+    "records": {}
+}

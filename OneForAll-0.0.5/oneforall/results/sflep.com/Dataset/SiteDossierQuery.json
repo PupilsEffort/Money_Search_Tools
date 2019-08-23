@@ -1,0 +1,31 @@
+{
+    "domain": "sflep.com",
+    "name": "Dataset",
+    "source": "SiteDossierQuery",
+    "elapsed": 5.7,
+    "count": 21,
+    "subdomains": [
+        "books.sflep.com",
+        "bbs.sflep.com",
+        "service.sflep.com",
+        "tem.sflep.com",
+        "sbs.sflep.com",
+        "research.sflep.com",
+        "easyreading.sflep.com",
+        "cetc.sflep.com",
+        "sflep.com",
+        "elib.sflep.com",
+        "pas.sflep.com",
+        "hee.sflep.com",
+        "www.ns.sflep.com",
+        "ns.sflep.com",
+        "audio.sflep.com",
+        "np.sflep.com",
+        "30th.sflep.com",
+        "www.sflep.com",
+        "kids.sflep.com",
+        "nfltc.sflep.com",
+        "expo.sflep.com"
+    ],
+    "records": {}
+}

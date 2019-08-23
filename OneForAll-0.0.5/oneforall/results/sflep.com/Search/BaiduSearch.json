@@ -1,0 +1,23 @@
+{
+    "domain": "sflep.com",
+    "name": "Search",
+    "source": "BaiduSearch",
+    "elapsed": 25.4,
+    "count": 13,
+    "subdomains": [
+        "sp.sflep.com",
+        "books.sflep.com",
+        "qr.sflep.com",
+        "welearn.sflep.com",
+        "wewrite.sflep.com",
+        "35.sflep.com",
+        "audio.sflep.com",
+        "sso.sflep.com",
+        "flt.sflep.com",
+        "course.sflep.com",
+        "www.sflep.com",
+        "we.sflep.com",
+        "sflep.com"
+    ],
+    "records": {}
+}

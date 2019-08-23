@@ -1,0 +1,14 @@
+{
+    "domain": "sflep.com",
+    "name": "Certificate",
+    "source": "GoogleQuery",
+    "elapsed": 3.5,
+    "count": 4,
+    "subdomains": [
+        "mail.sflep.com",
+        "www.courserescqut.sflep.com",
+        "courseresgdpa.sflep.com",
+        "sflep.com"
+    ],
+    "records": {}
+}

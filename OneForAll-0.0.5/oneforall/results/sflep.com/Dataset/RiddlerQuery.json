@@ -1,0 +1,21 @@
+{
+    "domain": "sflep.com",
+    "name": "Dataset",
+    "source": "RiddlerQuery",
+    "elapsed": 5.0,
+    "count": 11,
+    "subdomains": [
+        "pas.sflep.com",
+        "books.sflep.com",
+        "hee.sflep.com",
+        "wg.sflep.com",
+        "assessment.sflep.com",
+        "audio.sflep.com",
+        "sso.sflep.com",
+        "wanguo.sflep.com",
+        "kids.sflep.com",
+        "nfltc.sflep.com",
+        "sflep.com"
+    ],
+    "records": {}
+}

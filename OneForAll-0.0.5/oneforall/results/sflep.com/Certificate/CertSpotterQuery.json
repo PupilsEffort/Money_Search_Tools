@@ -1,0 +1,14 @@
+{
+    "domain": "sflep.com",
+    "name": "Certificate",
+    "source": "CertSpotterQuery",
+    "elapsed": 4.2,
+    "count": 4,
+    "subdomains": [
+        "mail.sflep.com",
+        "sflep.com",
+        "easylanguage.sflep.com",
+        "autodiscover.sflep.com"
+    ],
+    "records": {}
+}

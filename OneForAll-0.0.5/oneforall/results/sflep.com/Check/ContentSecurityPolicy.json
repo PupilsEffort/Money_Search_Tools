@@ -1,0 +1,9 @@
+{
+    "domain": "sflep.com",
+    "name": "Check",
+    "source": "ContentSecurityPolicy",
+    "elapsed": 0.6,
+    "count": 0,
+    "subdomains": [],
+    "records": {}
+}

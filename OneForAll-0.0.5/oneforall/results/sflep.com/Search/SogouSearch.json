@@ -1,0 +1,11 @@
+{
+    "domain": "sflep.com",
+    "name": "Search",
+    "source": "SogouSearch",
+    "elapsed": 5.1,
+    "count": 1,
+    "subdomains": [
+        "sflep.com"
+    ],
+    "records": {}
+}

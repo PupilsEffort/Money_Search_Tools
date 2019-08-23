@@ -1,0 +1,83 @@
+bsm.biotecan.com              	180.169.91.42
+demo.biotecan.com             	180.169.91.42
+eems.biotecan.com             	180.169.91.42
+exchange.biotecan.com         	180.169.91.45
+iam.biotecan.com              	180.169.91.46
+mall.biotecan.com             	180.169.91.42
+quiz.biotecan.com             	180.169.91.42
+report.biotecan.com           	180.169.91.42
+test.biotecan.com             	180.169.91.42
+www.biotecan.com              	180.169.91.42
+www1.biotecan.com             	180.169.91.42
+report.bsm.biotecan.com       	180.169.91.42
+doc.biotecan.com              	180.169.91.42
+has.biotecan.com              	180.169.91.42
+nc.biotecan.com               	180.169.91.42
+oa.biotecan.com               	180.169.91.42
+sip.biotecan.com              	180.169.91.44
+lyncdiscover.biotecan.com     	180.169.91.44
+smtp.biotecan.com             	180.169.91.45
+survey.biotecan.com           	180.169.91.42
+ftp.biotecan.com              	180.169.91.42
+mbd.biotecan.com              	180.169.91.42
+pf.biotecan.com               	180.169.91.42
+smg.biotecan.com              	180.169.91.44
+statistics.biotecan.com       	180.169.91.42
+vpn.biotecan.com              	180.169.91.43
+wap.biotecan.com              	180.169.91.42
+auth.biotecan.com             	180.169.91.42
+dialin.biotecan.com           	180.169.91.44
+demo2.biotecan.com            	180.169.91.42
+hr.biotecan.com               	180.169.91.42
+mail.biotecan.com             	180.169.91.45
+meet.biotecan.com             	180.169.91.44
+shop.biotecan.com             	180.169.91.42
+testing.biotecan.com          	180.169.91.42
+tongji.biotecan.com           	180.169.91.42
+broadcast.biotecan.com        	180.169.91.42
+mobile.biotecan.com           	180.169.91.42
+pcu.biotecan.com              	180.169.91.42
+search.biotecan.com           	180.169.91.42
+static.biotecan.com           	180.169.91.42
+club.biotecan.com             	180.169.91.42
+jk.biotecan.com               	180.169.91.42
+ids.biotecan.com              	180.169.91.42
+pop3.biotecan.com             	180.169.91.45
+video.biotecan.com            	180.169.91.42
+www.biotecan.com
+admin.biotecan.com
+autodiscover.biotecan.com
+btcweb.biotecan.com
+coreswitch.biotecan.com
+coreswith.biotecan.com
+dialin.biotecan.com
+exchange.biotecan.com
+exedge.biotecan.com
+firewall.biotecan.com
+iam.biotecan.com
+lyncdiscover.biotecan.com
+lyncdiscoverinternal.biotecan.com
+mail.biotecan.com
+mailcleaner.biotecan.com
+mall.biotecan.com
+meet.biotecan.com
+mobile.biotecan.com
+oa.biotecan.com
+oamobile.biotecan.com
+old-oa.biotecan.com
+oos.biotecan.com
+pool.biotecan.com
+sfbedge.biotecan.com
+showasrv.biotecan.com
+shsfbsrv.biotecan.com
+sip.biotecan.com
+smg.biotecan.com
+swith3-1.biotecan.com
+swith3-2.biotecan.com
+swith3-3.biotecan.com
+swith3-4.biotecan.com
+swith3-5.biotecan.com
+swith3-6.biotecan.com
+swith3-7.biotecan.com
+swith3-8.biotecan.com
+vpn.biotecan.com

@@ -1,0 +1,44 @@
+arch.boqii.com                	123.59.45.105
+e.boqii.com                   	123.59.45.105
+bbs.e.boqii.com               	123.59.61.138
+flower.boqii.com              	123.59.45.105
+i.boqii.com                   	117.21.219.100, 122.228.238.116
+img.boqii.com                 	123.59.60.197
+link.boqii.com                	222.73.109.101
+report.boqii.com              	123.59.45.105
+rtx.boqii.com                 	101.231.121.134
+sdata.boqii.com               	123.59.45.105
+s.boqii.com                   	106.42.25.193, 122.228.238.116
+star.boqii.com                	123.59.45.105
+v2.e.boqii.com                	123.59.45.105
+www.boqii.com                 	117.21.219.100, 122.228.238.116
+ask.boqii.com                 	123.59.45.105
+c.boqii.com                   	123.59.45.105
+mail1.boqii.com               	118.126.1.164
+oa.boqii.com                  	123.59.67.49
+pay.boqii.com                 	106.75.10.84
+piwik.boqii.com               	123.59.51.108
+smtp.boqii.com                	42.120.219.29, 42.120.226.4
+bbs.boqii.com                 	117.21.219.100, 122.228.238.116
+dis.boqii.com                 	123.59.45.105
+mail2.boqii.com               	118.126.1.179
+plant.boqii.com               	123.59.45.105
+stest.boqii.com               	123.59.60.4
+v.boqii.com                   	123.59.45.105
+vpn.boqii.com                 	116.236.188.246
+mail.boqii.com                	42.120.158.76, 42.120.219.1, 42.120.226.13, 42.120.226.7, 42.156.140.99
+news.boqii.com                	123.59.45.105
+qq.boqii.com                  	123.59.45.105
+shop.boqii.com                	106.42.25.192, 122.228.238.116
+vet.boqii.com                 	122.228.238.116
+am.boqii.com                  	123.59.45.105
+api.boqii.com                 	123.59.45.105
+csm.boqii.com                 	123.59.45.105
+m.boqii.com                   	106.75.32.6
+secs.boqii.com                	123.59.45.105
+sf.boqii.com                  	106.75.229.71
+basic.boqii.com               	123.59.45.105
+f.boqii.com                   	123.59.45.105
+mtest.boqii.com               	123.59.60.4
+pop3.boqii.com                	140.205.28.135, 42.120.149.7, 42.120.151.2, 42.120.214.11, 42.120.219.25, 42.120.226.2
+u.boqii.com                   	123.59.45.105

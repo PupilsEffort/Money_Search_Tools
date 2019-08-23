@@ -1,0 +1,11 @@
+{
+    "domain": "sflep.com",
+    "name": "Dataset",
+    "source": "RobtexQuery",
+    "elapsed": 5.7,
+    "count": 1,
+    "subdomains": [
+        "www.sflep.com"
+    ],
+    "records": {}
+}

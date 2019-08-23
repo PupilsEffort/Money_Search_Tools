@@ -1,0 +1,56 @@
+i.thsware.com                 	218.17.122.210
+mall.thsware.com              	120.25.59.146
+ztb.thsware.com               	120.76.237.224
+www.thsware.com               	112.74.87.28
+jy.thsware.com                	120.76.237.224
+smtp.thsware.com              	124.202.154.228
+jf.thsware.com                	120.25.59.146
+auth.thsware.com              	120.25.59.146
+hr.thsware.com                	112.74.87.28
+mail.thsware.com              	124.202.154.228
+mp.thsware.com                	120.25.59.146
+user.thsware.com              	120.25.59.146
+data.thsware.com              	119.23.155.157
+eq.thsware.com                	124.202.154.228
+imap.thsware.com              	124.202.154.228
+msg.thsware.com               	218.17.122.210
+pop.thsware.com               	124.202.154.228
+video.thsware.com             	119.147.40.242, 119.147.40.243, 119.147.40.244, 119.147.40.245, 119.147.40.246, 119.147.40.248, 119.147.40.249, 119.147.40.250
+y.thsware.com                 	124.202.154.228
+www.biotecan.com
+admin.biotecan.com
+autodiscover.biotecan.com
+btcweb.biotecan.com
+coreswitch.biotecan.com
+coreswith.biotecan.com
+dialin.biotecan.com
+exchange.biotecan.com
+exedge.biotecan.com
+firewall.biotecan.com
+iam.biotecan.com
+lyncdiscover.biotecan.com
+lyncdiscoverinternal.biotecan.com
+mail.biotecan.com
+mailcleaner.biotecan.com
+mall.biotecan.com
+meet.biotecan.com
+mobile.biotecan.com
+oa.biotecan.com
+oamobile.biotecan.com
+old-oa.biotecan.com
+oos.biotecan.com
+pool.biotecan.com
+sfbedge.biotecan.com
+showasrv.biotecan.com
+shsfbsrv.biotecan.com
+sip.biotecan.com
+smg.biotecan.com
+swith3-1.biotecan.com
+swith3-2.biotecan.com
+swith3-3.biotecan.com
+swith3-4.biotecan.com
+swith3-5.biotecan.com
+swith3-6.biotecan.com
+swith3-7.biotecan.com
+swith3-8.biotecan.com
+vpn.biotecan.com

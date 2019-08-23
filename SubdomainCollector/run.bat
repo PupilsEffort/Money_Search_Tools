@@ -1,0 +1,1 @@
+java -jar "SubdomainCollector 1.6.jar"

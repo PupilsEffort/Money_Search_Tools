@@ -1,0 +1,16 @@
+login.pkulaw.com              	120.41.39.32
+www.pkulaw.com                	120.41.39.32
+lawyer.pkulaw.com             	120.27.26.37
+lfy.pkulaw.com                	139.198.11.23
+nmg.pkulaw.com                	39.96.168.88
+px.pkulaw.com                 	210.74.3.225
+ai.pkulaw.com                 	139.198.16.175
+api.pkulaw.com                	139.198.11.23
+tj.pkulaw.com                 	39.96.168.88
+v5.pkulaw.com                 	139.198.19.26
+file.pkulaw.com               	183.136.135.213, 183.136.135.215, 183.136.135.216, 183.136.135.220, 183.136.135.221, 183.136.135.222, 183.136.135.223, 183.136.135.224
+heb.pkulaw.com                	47.92.204.243
+openapi.pkulaw.com            	139.198.11.23
+recruit.pkulaw.com            	139.198.11.23
+translate.pkulaw.com          	123.59.136.244
+yunfu.pkulaw.com              	47.92.204.243

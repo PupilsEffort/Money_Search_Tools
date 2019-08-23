@@ -1,0 +1,17 @@
+{
+    "domain": "sflep.com",
+    "name": "Dataset",
+    "source": "DNSdbQuery",
+    "elapsed": 16.0,
+    "count": 7,
+    "subdomains": [
+        "root.sflep.com",
+        "ns2.sflep.com",
+        "mail.sflep.com",
+        "wanguo.sflep.com",
+        "kids.sflep.com",
+        "ns.sflep.com",
+        "www.sflep.com"
+    ],
+    "records": {}
+}

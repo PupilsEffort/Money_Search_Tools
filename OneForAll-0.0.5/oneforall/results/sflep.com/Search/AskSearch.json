@@ -1,0 +1,30 @@
+{
+    "domain": "sflep.com",
+    "name": "Search",
+    "source": "AskSearch",
+    "elapsed": 61.7,
+    "count": 20,
+    "subdomains": [
+        "books.sflep.com",
+        "welearn.sflep.com",
+        "service.sflep.com",
+        "cepc.sflep.com",
+        "research.sflep.com",
+        "easyreading.sflep.com",
+        "kyxm.sflep.com",
+        "duoyu.sflep.com",
+        "wetest.sflep.com",
+        "we.sflep.com",
+        "wewrite.sflep.com",
+        "audio.sflep.com",
+        "sso.sflep.com",
+        "flt.sflep.com",
+        "course.sflep.com",
+        "www.sflep.com",
+        "kids.sflep.com",
+        "nfltc.sflep.com",
+        "tem.sflep.com",
+        "qr.sflep.com"
+    ],
+    "records": {}
+}

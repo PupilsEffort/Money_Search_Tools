@@ -1,0 +1,36 @@
+emq.saicmobility.com          	172.81.229.125
+marketing.saicmobility.com    	123.207.176.64
+mx1.saicmobility.com          	117.184.122.72
+src.saicmobility.com          	123.207.176.64
+team.saicmobility.com         	123.207.176.64
+vpn3.saicmobility.com         	118.25.166.117
+www.saicmobility.com          	123.207.176.64
+vpn2.saicmobility.com         	180.167.170.147
+cms.saicmobility.com          	123.207.176.64
+dls.saicmobility.com          	115.231.191.244, 115.231.229.249, 122.228.255.249, 122.246.3.111, 122.246.3.203, 122.246.6.115, 122.246.6.116, 122.246.6.125
+jira.saicmobility.com         	111.231.146.208
+ops.saicmobility.com          	123.207.176.64
+sip.saicmobility.com          	42.159.162.44
+ting.saicmobility.com         	123.207.176.64
+vdi.saicmobility.com          	180.167.170.150
+ent.saicmobility.com          	123.207.176.64
+keyserver.saicmobility.com    	180.167.170.148
+otp.saicmobility.com          	123.207.176.64
+sso.saicmobility.com          	118.25.166.54
+trip.saicmobility.com         	123.207.176.64
+vehicle.saicmobility.com      	123.207.176.64
+vpn.saicmobility.com          	180.167.170.148
+wf.saicmobility.com           	118.25.166.117
+api.saicmobility.com          	123.207.176.64
+dmc.saicmobility.com          	123.207.176.64
+help.saicmobility.com         	123.207.176.64
+partner.saicmobility.com      	123.207.176.64
+msoid.saicmobility.com        	139.217.17.219, 139.217.21.3, 42.159.4.68
+r.saicmobility.com            	172.81.229.125
+static.saicmobility.com       	115.231.191.244, 115.231.229.249, 122.228.255.249, 122.246.3.111, 122.246.3.203, 122.246.6.115, 122.246.6.116, 122.246.6.125
+adv.saicmobility.com          	123.207.176.64
+data.saicmobility.com         	118.25.166.54
+finance.saicmobility.com      	212.64.119.194
+mx2.saicmobility.com          	112.65.23.158
+pan.saicmobility.com          	123.207.176.64
+sr.saicmobility.com           	123.207.176.64

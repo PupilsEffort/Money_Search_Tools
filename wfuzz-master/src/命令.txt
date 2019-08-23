@@ -1,0 +1,1 @@
+python wfuzz-cli.py -c -w D:\ATTACK\Dict\dir×Öµä\dir.txt --hc 404,302,403 --hl 0 --hh 1378 -R 3 http://zsb.tynxy.com/FUZZ

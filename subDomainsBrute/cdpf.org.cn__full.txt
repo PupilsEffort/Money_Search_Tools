@@ -1,0 +1,56 @@
+antispam.cdpf.org.cn          	125.35.0.77
+bi.cdpf.org.cn                	124.127.107.3
+cr.cdpf.org.cn                	125.35.0.73
+fp.cdpf.org.cn                	125.35.0.116
+kf.cdpf.org.cn                	125.35.0.116
+login.cdpf.org.cn             	124.127.107.9
+ns1.cdpf.org.cn               	125.35.0.121
+ns2.cdpf.org.cn               	124.127.107.59
+report.cdpf.org.cn            	125.35.0.98
+ty.cdpf.org.cn                	125.35.0.116
+vm.cdpf.org.cn                	125.35.0.82
+wq.cdpf.org.cn                	125.35.0.116
+www.cdpf.org.cn               	124.127.107.8
+yj.cdpf.org.cn                	125.35.0.116
+yzm.cdpf.org.cn               	125.35.0.82
+dj.cdpf.org.cn                	125.35.0.116
+doc.cdpf.org.cn               	125.35.0.69
+export.cdpf.org.cn            	210.73.66.129
+export-cname.cdpf.org.cn      	210.73.66.129
+mx.cdpf.org.cn                	125.35.0.77
+portal.cdpf.org.cn            	125.35.0.66
+con.cdpf.org.cn               	125.35.0.85
+ewb.cdpf.org.cn               	125.35.0.75
+info.cdpf.org.cn              	124.127.107.7
+vpn.cdpf.org.cn               	124.127.107.36, 125.35.0.100
+xfm.cdpf.org.cn               	125.35.0.107
+xw.cdpf.org.cn                	125.35.0.116
+xx.cdpf.org.cn                	125.35.0.107
+xxw.cdpf.org.cn               	125.35.0.68
+jc.cdpf.org.cn                	125.35.0.116
+mail.cdpf.org.cn              	125.35.0.78
+npm.cdpf.org.cn               	125.35.0.82
+train.cdpf.org.cn             	125.35.0.92
+voice.cdpf.org.cn             	125.35.0.115
+zl.cdpf.org.cn                	125.35.0.116
+bg.cdpf.org.cn                	125.35.0.116
+bz.cdpf.org.cn                	125.35.0.116
+api.cdpf.org.cn               	125.35.0.108
+gj.cdpf.org.cn                	125.35.0.116
+m.cdpf.org.cn                 	125.35.0.93
+mx3.cdpf.org.cn               	124.127.107.22
+rkk.cdpf.org.cn               	125.35.0.121
+service.cdpf.org.cn           	124.127.107.30
+search.cdpf.org.cn            	203.192.8.6
+webservice.cdpf.org.cn        	124.127.107.16
+data.cdpf.org.cn              	124.127.107.17
+gis.cdpf.org.cn               	125.35.0.89
+mx2.cdpf.org.cn               	125.35.0.78
+rs.cdpf.org.cn                	125.35.0.116
+stats.cdpf.org.cn             	124.127.107.4
+wcm.cdpf.org.cn               	125.35.0.98
+wx.cdpf.org.cn                	125.35.0.69
+xxh.cdpf.org.cn               	125.35.0.116
+
+
+122408

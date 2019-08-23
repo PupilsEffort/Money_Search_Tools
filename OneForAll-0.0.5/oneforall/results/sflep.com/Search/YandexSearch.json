@@ -1,0 +1,19 @@
+{
+    "domain": "sflep.com",
+    "name": "Search",
+    "source": "YandexSearch",
+    "elapsed": 20.7,
+    "count": 9,
+    "subdomains": [
+        "bm.sflep.com",
+        "dict.sflep.com",
+        "coursertmp.sflep.com",
+        "cepc.sflep.com",
+        "assessment.sflep.com",
+        "audio.sflep.com",
+        "coursetest.sflep.com",
+        "creativewriting.sflep.com",
+        "35.sflep.com"
+    ],
+    "records": {}
+}
